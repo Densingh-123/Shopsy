@@ -1,0 +1,32 @@
+/* Layout-specific light theme */
+.layout-container.light {
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  
+  /* Layout-specific dark theme */
+  .layout-container.dark {
+    background-color: black;
+    color: #ffffff;
+  }
+  
+  /* Theme toggle button */
+  .theme-toggle-btn {
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    position: relative;
+    right: -1170px;
+  }
+  
+  .theme-toggle-btn:hover {
+    background-color: #0056b3;
+  }
+  .fa{
+    color: black !important;
+  }
