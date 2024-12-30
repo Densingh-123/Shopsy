@@ -49,3 +49,12 @@ If any error is encountered please check package version and try again
 "react-stripe-checkout": "^2.6.3",
 "sass": "^1.81.0",
 "slick-carousel": "^1.8.1"
+![d1](https://github.com/user-attachments/assets/5db2f9e5-4f83-4910-9743-f96205841547)
+![d2](https://github.com/user-attachments/assets/db898974-a30c-423d-9149-a103ae8ead04)
+![d3](https://github.com/user-attachments/assets/56c957b5-92fe-450e-8991-fcb321ccee17)
+![d4](https://github.com/user-attachments/assets/1f1490b3-4ecc-45ad-84b1-55236e6d12d5)
+![d5](https://github.com/user-attachments/assets/5cefc48d-9fbd-4a3e-9dc5-d2ab2491c852)
+![d6](https://github.com/user-attachments/assets/d5fba24a-083a-46c8-8d9c-34819058c5a5)
+![d7](https://github.com/user-attachments/assets/787380d2-5445-432a-a0cc-865d2006ebc1)
+![d8](https://github.com/user-attachments/assets/c1c19946-2ba9-4514-878b-9f5d60b6c74f)
+
